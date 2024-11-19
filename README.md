@@ -3,7 +3,6 @@
 # 💫 About Me:
 I'm currently pursuing my masters in Electrical and Computer Engineering<br>at University of Delaware with a research focus on data science and machine learning<br><br>Currently working on building machine learning algorithms for HyperSpectral<br>Image Analysis as part of my MS Thesis<br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ms-cristy/) 
 
