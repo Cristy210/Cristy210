@@ -1,7 +1,9 @@
 ## Hi, I'm Cristy! 👋
 
 # 💫 About Me:
-### Pursuing my masters in Electrical and Computer Engineering at University of Delaware with a research focus on data science and machine learning<br><br>Currently working on building machine learning algorithms for Hyperspectral Image Analysis as part of my MS Thesis
+### Completed my masters in Electrical and Computer Engineering at University of Delaware. My thesis, _Hyperspectral Image Analysis via Subspace Clustering_ focused on developing machine learning algorithms for analyzing high-dimensional imaging datasets. 
+
+### 🔍 Actively looking for full-time opportunities in Data Science, and Machine Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-cristy/) 
