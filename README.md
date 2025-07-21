@@ -3,7 +3,7 @@
 # 💫 About Me:
 ### Completed my masters in Electrical and Computer Engineering at University of Delaware. My thesis, [_Hyperspectral Image Analysis via Subspace Clustering_](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2AxAZ0sAAAAJ&citation_for_view=2AxAZ0sAAAAJ:u5HHmVD_uO8C) focused on developing machine learning algorithms for analyzing high-dimensional imaging datasets. 
 
-### 🔍 Actively looking for full-time opportunities in Data Science, and Machine Learning
+### 🔍 Actively looking for full-time opportunities in Data Science, Machine Learning, and Image Analysis
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-cristy/) 
